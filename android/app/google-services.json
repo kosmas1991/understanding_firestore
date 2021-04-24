@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "268820127617",
+    "project_id": "understandingfirestore",
+    "storage_bucket": "understandingfirestore.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:268820127617:android:77cae904e4d6ef329c5280",
+        "android_client_info": {
+          "package_name": "gr.techzombie.understanding_firestore"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "268820127617-9vo7tjmq72nktl93asnjdkelp7rbhbff.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "gr.techzombie.understanding_firestore",
+            "certificate_hash": "fcf10e17de09eba51e6210ebb97ba16542bd6a21"
+          }
+        },
+        {
+          "client_id": "268820127617-u3vsrvtufsbm98ai9do3troq6eebgfhu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBcw99f3fCT950RDSw8L7mzqHnNpCLc_Cg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "268820127617-u3vsrvtufsbm98ai9do3troq6eebgfhu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
