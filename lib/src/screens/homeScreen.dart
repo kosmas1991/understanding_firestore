@@ -93,7 +93,17 @@ class _HomeScreenState extends State<HomeScreen> {
                 });
 
               },
+            ),
+            ElevatedButton(
+              child: Text('update first collection ref'),
+              onPressed: () {
+                ref.get().then((value) {
+                  value.docs[0].reference.update({'midas':'test'});
+                });
+
+              },
             )
+
           ],
         ),
       ),
